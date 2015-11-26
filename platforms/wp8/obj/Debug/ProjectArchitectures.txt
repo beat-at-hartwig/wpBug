@@ -1,0 +1,1 @@
+c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\wpBug.csproj;neutral

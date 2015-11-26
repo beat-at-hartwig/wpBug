@@ -1,0 +1,34 @@
+﻿<xapCache source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Bin\Debug\wpBug_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="26.11.2015 10:28:37">
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="24.11.2015 13:50:56" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\obj\Debug\com.example.wpbug.dll" archivePath="com.example.wpbug.dll" lastWriteTime="26.11.2015 10:28:36" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="24.11.2015 10:12:20" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="24.11.2015 10:12:20" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="24.11.2015 10:12:20" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="24.11.2015 10:12:20" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="24.11.2015 10:12:20" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="24.11.2015 10:12:20" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="24.11.2015 10:12:20" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="26.11.2015 10:28:34" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\www\cordova-js-src\exec.js" archivePath="www\cordova-js-src\exec.js" lastWriteTime="26.11.2015 10:28:34" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\www\cordova-js-src\platform.js" archivePath="www\cordova-js-src\platform.js" lastWriteTime="26.11.2015 10:28:34" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="26.11.2015 10:28:34" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="26.11.2015 10:28:34" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="26.11.2015 10:28:34" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="26.11.2015 10:28:34" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="26.11.2015 10:28:34" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="26.11.2015 10:28:34" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\VERSION" archivePath="VERSION" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="24.11.2015 10:12:35" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="24.11.2015 09:57:21" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="24.11.2015 10:12:35" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="26.11.2015 10:28:36" />
+  <file source="c:\Users\BeatGrabe\Documents\Personal\wpbug\platforms\wp8\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="24.11.2015 13:50:56" />
+</xapCache>
